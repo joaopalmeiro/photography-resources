@@ -1,8 +1,10 @@
-# lightroom-resources
+# photography-resources
 
-A list of resources for [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html).
+A list of photography resources.
 
-## Tutorials
+## [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
+
+### Tutorials
 
 - [Lightroom Get Started course](https://helpx.adobe.com/lightroom-cc/tutorials.html):
   - [Take your first steps in Lightroom](https://helpx.adobe.com/lightroom-cc/how-to/get-started-lightroom-cc.html)
@@ -13,3 +15,4 @@ A list of resources for [Adobe Lightroom](https://www.adobe.com/products/photosh
 ## Photos
 
 - [Bergianska Trädgården, Stockholm — June 2022](https://emilwidlund.com/photography/bergianska-tradgarden) by Emil Widlund
+- [MICRO—FOTOGRAFIAS: PRAIA](https://guilhermevieira.info/trabalhos/micro-fotografias-praia/) by Guilherme Vieira
