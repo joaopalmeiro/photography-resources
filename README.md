@@ -6,6 +6,8 @@ A list of photography resources.
 
 ### Courses/Tutorials
 
+- [Twitter thread about the histogram](https://twitter.com/carolinelins/status/1640015692513542144) by Caroline Lins
+
 #### [Lightroom Get Started course](https://helpx.adobe.com/lightroom-cc/tutorials.html)
 
 - [Take your first steps in Lightroom](https://helpx.adobe.com/lightroom-cc/how-to/get-started-lightroom-cc.html)
