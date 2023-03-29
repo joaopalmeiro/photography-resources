@@ -15,6 +15,10 @@ A list of photography resources.
 - [Adjust light and color](https://helpx.adobe.com/lightroom-cc/how-to/adjust-image-lighting-color-lightroom-cc.html)
 - [Crop and adjust perspective](https://helpx.adobe.com/lightroom-cc/how-to/crop-straighten-photos-lightroom-cc.html)
 
+### Presets
+
+- [Kodak Film Presets for Lightroom](https://historiclandscapes.net/downloads/kodak-film-presets-for-lightroom/) by André Ruiter
+
 ## Photos
 
 - [Bergianska Trädgården, Stockholm — June 2022](https://emilwidlund.com/photography/bergianska-tradgarden) by Emil Widlund
