@@ -23,3 +23,7 @@ A list of photography resources.
 
 - [Bergianska Trädgården, Stockholm — June 2022](https://emilwidlund.com/photography/bergianska-tradgarden) by Emil Widlund
 - [MICRO—FOTOGRAFIAS: PRAIA](https://guilhermevieira.info/trabalhos/micro-fotografias-praia/) by Guilherme Vieira
+
+## Websites
+
+- [PetaPixel](https://petapixel.com/)
