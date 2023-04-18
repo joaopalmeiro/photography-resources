@@ -27,3 +27,8 @@ A list of photography resources.
 ## Websites
 
 - [PetaPixel](https://petapixel.com/)
+
+## Products
+
+- [Topaz Labs](https://www.topazlabs.com/)
+- [Capture One](https://www.captureone.com/)
