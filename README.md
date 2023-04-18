@@ -32,3 +32,15 @@ A list of photography resources.
 
 - [Topaz Labs](https://www.topazlabs.com/)
 - [Capture One](https://www.captureone.com/)
+
+## Photographers
+
+- Darren Jew:
+  - [Website](https://darrenjew.com/)
+  - [Instagram](https://www.instagram.com/darrenjew/)
+- Daidō Moriyama:
+  - [Website](https://www.moriyamadaido.com/)
+
+## Stores
+
+- [Colorfoto](https://www.colorfoto.pt/)
