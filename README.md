@@ -40,7 +40,22 @@ A list of photography resources.
   - [Instagram](https://www.instagram.com/darrenjew/)
 - Daidō Moriyama:
   - [Website](https://www.moriyamadaido.com/)
+- Carlos Moreira:
+  - [Website](https://www.carlosmoreira.com.br/)
+- Henri Cartier-Bresson:
+  - [Magnum page](https://www.magnumphotos.com/photographer/henri-cartier-bresson/)
+- Harry Gruyaert:
+  - [Magnum page](https://www.magnumphotos.com/photographer/harry-gruyaert/)
+- Gueorgui Pinkhassov:
+  - [Magnum page](https://www.magnumphotos.com/photographer/gueorgui-pinkhassov/)
+- Raghubir Singh:
+  - [Wikipedia page](<https://en.wikipedia.org/wiki/Raghubir_Singh_(photographer)>)
 
 ## Stores
 
 - [Colorfoto](https://www.colorfoto.pt/)
+
+## Books
+
+- [A Way into India](https://www.setantabooks.com/products/a-way-into-india-raghubir-singh) by Raghubir Singh
+- [Salaryman Project](https://www.brunoquinquet.com/en/salaryman_en.html) by Bruno Quinquet/Bureau d'Etudes Japonaises
