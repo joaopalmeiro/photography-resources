@@ -50,6 +50,9 @@ A list of photography resources.
   - [Magnum page](https://www.magnumphotos.com/photographer/gueorgui-pinkhassov/)
 - Raghubir Singh:
   - [Wikipedia page](<https://en.wikipedia.org/wiki/Raghubir_Singh_(photographer)>)
+- João Ferreira:
+  - [Website](https://joaoferreira.photography/)
+  - [Instagram](https://www.instagram.com/joaoferreira.photography/)
 
 ## Stores
 
@@ -59,3 +62,4 @@ A list of photography resources.
 
 - [A Way into India](https://www.setantabooks.com/products/a-way-into-india-raghubir-singh) by Raghubir Singh
 - [Salaryman Project](https://www.brunoquinquet.com/en/salaryman_en.html) by Bruno Quinquet/Bureau d'Etudes Japonaises
+- [La Calle](https://aperture.org/books/alex-webb-la-calle-2/) by Alex Webb
