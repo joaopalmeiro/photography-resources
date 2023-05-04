@@ -53,6 +53,10 @@ A list of photography resources.
 - João Ferreira:
   - [Website](https://joaoferreira.photography/)
   - [Instagram](https://www.instagram.com/joaoferreira.photography/)
+- Constantine Manos:
+  - [Magnum page](https://www.magnumphotos.com/photographer/constantine-manos/)
+- Luiz Braga:
+  - [Wikipedia page](https://pt.wikipedia.org/wiki/Luiz_Braga)
 
 ## Stores
 
