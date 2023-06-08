@@ -1,6 +1,6 @@
 # photography-resources
 
-A list of photography resources.
+A list of annotated photography resources.
 
 ## [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
 
